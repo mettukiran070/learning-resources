@@ -2,6 +2,7 @@ Azure Architectural Patterns:
 ```https://learn.microsoft.com/en-us/azure/architecture/```
 
 Google Cloud:
+```https://www.cloudskillsboost.google/journeys```
 ```https://cloud.google.com/architecture```
 ```https://cloud.google.com/docs```
 ```https://cloud.google.com/learn?hl=en```
