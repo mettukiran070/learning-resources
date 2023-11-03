@@ -1,6 +1,9 @@
 # learning-resources
 Adding all Learning Resources
 
+style guides to all Lang Apps:
+```https://github.com/google/styleguide```
+
 Books:
 ```https://it-ebooks.info/```
 
