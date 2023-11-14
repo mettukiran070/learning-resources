@@ -30,3 +30,6 @@ AI:
 ```https://tanzu.vmware.com/blog```
 
 ```https://roadmap.sh/```
+
+Blogs :-
+```https://blog.levelupcoding.co/```
