@@ -18,6 +18,9 @@ Drop Wizard :
 MicroServices:
 ```https://microservices.io/```
 
+Mapping DTO to Entity :
+```https://mapstruct.org/```
+
 Restful APIs
 ```https://restfulapi.net/```
 
