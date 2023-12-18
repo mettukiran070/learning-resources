@@ -12,9 +12,6 @@ Java:
 
 ```https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html```
 
-Spring Docs:
-```https://docs.spring.io/spring-framework/reference/index.html```
-
 Drop Wizard :
 ```https://www.dropwizard.io/en/stable/index.html```
 
